@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lesly Cueto</h1>
 <h3 align="center">A passionate Frontend Developer and UX/UI Designer from Peru</h3>
 
-- 🌱 I’m currently learning **React.js, Laravel,Pug**
-
 - 📝 I regularly write articles on [https://hashnode.com/@leslysharom](https://hashnode.com/@leslysharom)
 
 - 📫 How to reach me **lesly.sharom@gmail.com**
@@ -11,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@lesly-cueto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@lesly-cueto" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lesly cueto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lesly cueto" height="30" width="40" /></a>
-<a href="https://instagram.com/@lesly_shtx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@lesly_shtx" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/lesly-cueto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/lesly-cueto" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/lesly-cueto/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lesly-cueto/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/lesly_shtx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/lesly_shtx/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
