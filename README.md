@@ -1,4 +1,3 @@
-add banner (use your links) :
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lesly!</h1>
 <h3 align="center">Front-end developer, UX/UI Designer and Systems Engineer at UTP</h3>
