@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Lesly!</h1>
-<h3 align="center">Front-end developer, UX/UI Designer and Systems Engineer at UTP</h3>
+<h3 align="center">Front-end developer, UX/UI Designer and Systems Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/C4E22AQHDtCqSBvumkQ/feedshare-shrink_800/0/1660142356846?e=2147483647&v=beta&t=dUS_Ty6phwPa92KJhShShzvMOh9iQmXKBwPaiRz6Q8c">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leslycueto&label=Profile%20views&color=0e75b6&style=flat" alt="leslycueto" /> </p>
