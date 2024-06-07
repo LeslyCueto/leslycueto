@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks, Full Stack and languages courses**
 
-- 👨‍💻 All of my projects are available at [https://leslycueto.github.io/myportfolio/](My Portfolio)
+- 👨‍💻 All of my projects are available at [https://leslycueto.github.io/myportfolio](https://leslycueto.github.io/myportfolio)
 
 - 📝 I regularly write articles on [https://hashnode.com/@leslysharom](https://hashnode.com/@leslysharom)
 
